@@ -2,6 +2,9 @@
 
 ## 자동 빌드 설정
 
-![img.png](img.png)
+<br>
 
 ![img_1.png](img_1.png)
+
+![img.png](img.png)
+
